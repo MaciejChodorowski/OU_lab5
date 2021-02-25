@@ -7,5 +7,5 @@ int main() {
     printf("hehe ale śmieszne");
     printf("opcja trzy");
 
-    printf("Koniec!")
+    printf("{Koniec!")
 }
