@@ -5,6 +5,7 @@ int main() {
     printf("opcja jeden");
     printf("opcja dwa");
     printf("hehe ale śmieszne");
+    printf("opcja trzy");
 
     printf("Koniec!")
 }
